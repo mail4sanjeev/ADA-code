@@ -1,0 +1,48 @@
+# Installation Instructions for the Project Environment
+
+This guide helps you set up the Python environment for this project using the `requirements.txt` file.
+
+
+
+📌 Step 1: Install All Required Modules in One Step
+
+Run the following command to install all packages listed in `requirements.txt`:
+
+For Windows/macOS/Linux:
+######  pip install -r requirements.txt ####
+
+This command will install every dependency your project needs, including:
+- streamlit
+- pandas
+- scikit-learn
+- numpy
+- matplotlib
+- torch
+- adversarial-robustness-toolbox
+- and more (as listed)
+
+---
+
+After all the requirements are install then u can navigate to the streamlit file.
+
+--- (1) command--- cd streamlit_ada_pro
+
+
+📌 Step 2: Run the Application
+
+To run your Streamlit app:
+streamlit run home.py
+
+
+
+---
+
+✅ You're all set!
+
+If you face any issue, try upgrading pip:
+python -m pip install --upgrade pip
+
+
+Note: if u have any error regarding any Modules Installation then use the module name and using this command 
+
+--- pip install (moudle name)

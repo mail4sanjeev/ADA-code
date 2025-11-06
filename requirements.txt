@@ -1,0 +1,9 @@
+streamlit==1.28.2
+torch==1.13.1
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+joblib==1.2.0
+adversarial-robustness-toolbox==1.10.0
+xgboost==1.7.6

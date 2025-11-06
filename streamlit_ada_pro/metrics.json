@@ -1,0 +1,5 @@
+{
+  "Hybrid_model_accuracy": "86.42 %",
+  "FGSM attack accuracy": "79.8 %",
+  "ZOO attack accuracy": "60 %"
+}
